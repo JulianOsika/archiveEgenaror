@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kwerendy", "Kwerendy.csproj", "{0AEC38C6-34D5-46EA-B664-FA1AE2F693F0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DocAppInstaller", "..\..\DocAppInstaller\DocAppInstaller.vdproj", "{A09BFE54-7BDF-40E3-AD14-7CAD0788ABCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEC38C6-34D5-46EA-B664-FA1AE2F693F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEC38C6-34D5-46EA-B664-FA1AE2F693F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEC38C6-34D5-46EA-B664-FA1AE2F693F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEC38C6-34D5-46EA-B664-FA1AE2F693F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09BFE54-7BDF-40E3-AD14-7CAD0788ABCC}.Debug|Any CPU.ActiveCfg = Debug
+		{A09BFE54-7BDF-40E3-AD14-7CAD0788ABCC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2A83D8-6F59-4ACD-A550-8896D974D44C}
+	EndGlobalSection
+EndGlobal
